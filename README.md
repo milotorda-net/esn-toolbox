@@ -4,7 +4,7 @@ A Python toolbox for evaluating information-theoretic measures in Echo State Net
 
 This toolbox accompanies the conference paper:
 
-> M. Torda, C. Benes and R. Bosak, "Evaluation of Information-Theoretic Measures in Echo State Networks on the Edge of Stability," *2018 IEEE International Conference on Systems, Man, and Cybernetics (SMC)*, Miyazaki, Japan, 2018, pp. 1348-1353, doi: [10.1109/SMC.2018.00236](https://doi.org/10.1109/SMC.2018.00236)
+> M. Torda and I. Farkas, "Evaluation of Information-Theoretic Measures in Echo State Networks on the Edge of Stability," *2018 International Joint Conference on Neural Networks (IJCNN)*, Rio de Janeiro, Brazil, 2018, pp. 1-6, doi: [10.1109/IJCNN.2018.8489152](https://doi.org/10.1109/IJCNN.2018.8489152)
 
 ## Requirements
 
