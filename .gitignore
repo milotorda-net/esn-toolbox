@@ -21,7 +21,3 @@ venv/
 # OS
 .DS_Store
 Thumbs.db
-
-# Project-specific
-AGENTS.md
-*.pdf
