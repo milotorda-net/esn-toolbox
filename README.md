@@ -87,7 +87,7 @@ result = pairwise_TE(X, kHistory=1, kTau=1, lHistory=1, lTau=1, u=1, k=4,
 
 The development of this toolbox and the computational experiments performed with it are documented on the author's research blog:
 
-- Blog pages [13](https://milotorda.net/blog/page/13/)--[16](https://milotorda.net/blog/page/16/) contain the full series of ESN experiments (Sep 2017 -- Jan 2018), including Python scripts for reproducing the results on Mackey-Glass, NARMA and Lorenz attractor systems.
+- Blog pages [research-blog/esn-toolbox](https://milotorda.net/category/research-blog/esn-toolbox/) contain the full series of ESN experiments (Dec 2017 -- Aug 2018), including Python scripts for reproducing the results on Mackey-Glass, NARMA and Lorenz attractor systems.
 
 ## Citation
 
