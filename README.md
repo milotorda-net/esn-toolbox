@@ -95,13 +95,12 @@ The development of this toolbox and the computational experiments conducted with
 
 ```bibtex
 @inproceedings{torda2018evaluation,
-  author    = {Torda, Miloslav and Benes, Ctibor and Bosak, Rada},
-  title     = {Evaluation of Information-Theoretic Measures in Echo State Networks on the Edge of Stability},
-  booktitle = {2018 IEEE International Conference on Systems, Man, and Cybernetics (SMC)},
+  title     = {Evaluation of information-theoretic measures in echo state networks on the edge of stability},
+  author    = {Torda, Miloslav and Farkas, Igor},
+  booktitle = {2018 International Joint Conference on Neural Networks (IJCNN)},
+  pages     = {1--6},
   year      = {2018},
-  pages     = {1348--1353},
-  doi       = {10.1109/SMC.2018.00236},
-  publisher = {IEEE}
+  organization = {IEEE}
 }
 ```
 
